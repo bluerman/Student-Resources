@@ -11,15 +11,15 @@ Create a website that demonstrates your knowledge of the Front-end development s
 The below items are the requirements for your personal project for Code Louisville.  Projects are graded on a pass/fail system, thus every required bullet must be met in order for your project to pass. You should discuss your project/plan with mentors in advance to verify that it will meet the requirements, but also to make sure you don't try and tackle too large of a project for this class.  The requirements are:
 
 #### Quick Checklist
-* [Your project is responsive to different devices and/or browser sizes or screen resolutions.  ](#)
-* [Your project includes custom CSS that is applied to your HTML elements](#)
-* [Your project includes custom JavaScript](#)
-* [Your project has some user interactivity](#)
-* [Your code has comments](#)
-* [Your project code is on your GitHub account in its own repository](#)
-* [It must include a README file located at the top level directory of your project providing the following:](#)
-* [You are highly encouraged to include a front-end framework such as AJAX, jQuery, or Angular in your project as a demonstration of your ability to utilize these.  However, this is not a requirement of a passing project.](#)
-* [Have fun!  Your project should be something you're proud of, and that adequately demonstrates your base knowledge in the concepts you've learned.](#)
+* [Your project is responsive to different devices and/or browser sizes or screen resolutions.  ](#your-project-is-responsive-to-different-devices-andor-browser-sizes-or-screen-resolutions)
+* [Your project includes custom CSS that is applied to your HTML elements](#your-project-includes-custom-css-that-is-applied-to-your-html-elements)
+* [Your project includes custom JavaScript](#your-project-includes-custom-javascript)
+* [Your project has some user interactivity](#your-project-has-some-user-interactivity)
+* [Your code has comments](#your-code-has-comments)
+* [Your project code is on you account in its own repository](#your-project-code-is-on-your-github-account-in-its-own-repository)
+* [It must include a README file located at the top level directory of your project providing the following:](#it-must-include-a-readme-file-located-at-the-top-level-directory-of-your-project-providing-the-following)
+* [You are highly encouraged to include a front-end framework such as AJAX, jQuery, or Angular in your project as a demonstration of your ability to utilize these.  However, this is not a requirement of a passing project. (**Optional**)](#you-are-highly-encouraged-to-include-a-front-end-framework-such-as-ajax-jquery-or-angular-in-your-project-as-a-demonstration-of-your-ability-to-utilize-these--however-this-is-not-a-requirement-of-a-passing-project)
+* [Have fun!  Your project should be something you're proud of, and that adequately demonstrates your base knowledge in the concepts you've learned.](#have-fun--your-project-should-be-something-youre-proud-of-and-that-adequately-demonstrates-your-base-knowledge-in-the-concepts-youve-learned)
 
 #### Detailed Requirements
 
