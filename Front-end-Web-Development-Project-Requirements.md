@@ -17,7 +17,7 @@ The below items are the requirements for your personal project for Code Louisvil
 * [Your project has some user interactivity](#your-project-has-some-user-interactivity)
 * [Your code has comments](#your-code-has-comments)
 * [Your project code is on you account in its own repository](#your-project-code-is-on-your-github-account-in-its-own-repository)
-* [It must include a README file located at the top level directory of your project providing the following:](#it-must-include-a-readme-file-located-at-the-top-level-directory-of-your-project-providing-the-following)
+* [It must include a README file located at the top level directory of your project.](#it-must-include-a-readme-file-located-at-the-top-level-directory-of-your-project-providing-the-following)
 * [You are highly encouraged to include a front-end framework such as AJAX, jQuery, or Angular in your project as a demonstration of your ability to utilize these.  However, this is not a requirement of a passing project. (**Optional**)](#you-are-highly-encouraged-to-include-a-front-end-framework-such-as-ajax-jquery-or-angular-in-your-project-as-a-demonstration-of-your-ability-to-utilize-these--however-this-is-not-a-requirement-of-a-passing-project)
 * [Have fun!  Your project should be something you're proud of, and that adequately demonstrates your base knowledge in the concepts you've learned.](#have-fun--your-project-should-be-something-youre-proud-of-and-that-adequately-demonstrates-your-base-knowledge-in-the-concepts-youve-learned)
 
